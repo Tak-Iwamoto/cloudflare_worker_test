@@ -2,7 +2,7 @@ name = "cloudflare_worker_test"
 type = "webpack"
 zone_id = "bdb50add87f7258cc3fc9edb2d699f6a"
 account_id = "b53924e966f3fc8106c32c81a786373d"
-route = "https://api.tak-iwamoto.com"
+route = "https://tak-iwamoto.com"
 workers_dev = true
 compatibility_date = "2022-02-27"
 
